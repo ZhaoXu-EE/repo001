@@ -1,3 +1,3 @@
 # repo001
-just test repo
+just test repo001
 this is my first repo
